@@ -1,1 +1,3 @@
 Hello World!
+Hello Europe!
+Hello Austria!
